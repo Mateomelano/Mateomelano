@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Mateo Melano</h1>
 <h3 align="center">Estudiante de la Tecnicatura en Programacion</h3>
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 Actualmente aprendiendo **Node Js**
 
-- 📫 How to reach me **mateomelano2003@gmail.com**
+- 📫 Como contactarme **mateomelano2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

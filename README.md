@@ -45,9 +45,7 @@ Con 20 años y a punto de culminar mi formación como Técnico Programador poseo
 
 ### 👉 Programming languages
 
-<p align="left"> 
-  &emsp; 
-    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 

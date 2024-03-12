@@ -1,4 +1,7 @@
-
+<h3 align="center">
+  Welcome to Code White's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 # 💫 About Me:
 Con 20 años y a punto de culminar mi formación como Técnico Programador poseo una sólida base teórica respaldada por un enfoque práctico y un profundo interés en el mundo de la programación. Mi incursión en este campo ha sido marcada por un compromiso constante con la adquisición de habilidades y conocimientos.<br>A medida que me acerco a la culminación de mi formación, estoy ansioso por aplicar mis conocimientos y habilidades en un entorno laboral dinámico. Mi motivación para aprender y crecer profesionalmente, combinada con mi sólida formación académica, me posiciona como un candidato capaz de contribuir de manera significativa en el ámbito de la programación.
 

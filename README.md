@@ -2,6 +2,9 @@
   Welcome to Code White's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+<p align="center">
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+CodeWhiteWeb;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
+</p>
 # 💫 About Me:
 Con 20 años y a punto de culminar mi formación como Técnico Programador poseo una sólida base teórica respaldada por un enfoque práctico y un profundo interés en el mundo de la programación. Mi incursión en este campo ha sido marcada por un compromiso constante con la adquisición de habilidades y conocimientos.<br>A medida que me acerco a la culminación de mi formación, estoy ansioso por aplicar mis conocimientos y habilidades en un entorno laboral dinámico. Mi motivación para aprender y crecer profesionalmente, combinada con mi sólida formación académica, me posiciona como un candidato capaz de contribuir de manera significativa en el ámbito de la programación.
 

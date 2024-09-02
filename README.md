@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 💫 About Me:
-Con 20 años y a punto de culminar mi formación como Técnico Programador poseo una sólida base teórica respaldada por un enfoque práctico y un profundo interés en el mundo de la programación. Mi incursión en este campo ha sido marcada por un compromiso constante con la adquisición de habilidades y conocimientos.<br>A medida que me acerco a la culminación de mi formación, estoy ansioso por aplicar mis conocimientos y habilidades en un entorno laboral dinámico. Mi motivación para aprender y crecer profesionalmente, combinada con mi sólida formación académica, me posiciona como un candidato capaz de contribuir de manera significativa en el ámbito de la programación.
+Soy Tecnico Programador recibido de la U.T.N poseo una sólida base teórica respaldada por un enfoque práctico y un profundo interés en el mundo de la programación. Mi incursión en este campo ha sido marcada por un compromiso constante con la adquisición de habilidades y conocimientos.<br>A medida que me acerco a la culminación de mi formación, estoy ansioso por aplicar mis conocimientos y habilidades en un entorno laboral dinámico. Mi motivación para aprender y crecer profesionalmente, combinada con mi sólida formación académica, me posiciona como un candidato capaz de contribuir de manera significativa en el ámbito de la programación.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Skills</b>
